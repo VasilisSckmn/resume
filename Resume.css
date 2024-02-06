@@ -1,7 +1,42 @@
-.test {
-    text-align: center;
+html {
+    background: rgb(37, 151, 128);
 }
+
 #photo {
     display: block;
-    margin: auto;
+    margin-left: 1500px;
+    top: 65px;
+    position: absolute;
+}
+
+.center {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px; 
+}
+
+h3 {
+    font-size: 22px;  
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.contact {
+    margin: 20px;
+}
+
+html {
+    margin: 20px;
+}
+
+.italic {
+    font-style: italic;
 }
